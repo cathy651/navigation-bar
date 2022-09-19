@@ -26,7 +26,7 @@ At last, I choose option 2 to build this project with a self build API ('https:/
 
 As the mobile and tablet design are not mentioned in the sample, we only accomplished the simplest responsive web design.
 
-### Functions achieved
+## Functions achieved
 
 1. a sliding bar that indicates a selected item
 2. On resize, the sliding indicator bar should update its position and size to match text.
